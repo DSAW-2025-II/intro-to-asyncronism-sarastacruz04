@@ -3,7 +3,7 @@
 
 ## Guia Pokedex
 - Hola profe!, te explico un poco el funcionamiento de la pokedex, es breve.
-- Al abrirla, buscar el pokemon por el ID que tenga (ej. 111), luego debes oprimir en el boton amarillo que hay debajo del keypad y te mostrará la info.
+- Al abrirla, buscas el pokemon por el ID que tenga (ej. 111), luego debes oprimir en el boton amarillo que hay debajo del keypad y te mostrará la info.
 - Para ver los sprites, usas las flechas izquierda y derecha.
 - Para ver las evoluciones, usas las flechas arriba y abajo.
 - Para borrar y buscar otro pokemon, oprimes en el boton negro grande que hay debajo de la pantalla donde se ve el pokemon.
