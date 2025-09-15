@@ -1,3 +1,15 @@
+## Datos
+#Sara Santacruz Corredor #0000320782 #sarasaco@unisabana.edu.co #Enlace: https://dsaw-2025-ii.github.io/intro-to-asyncronism-sarastacruz04/
+
+## Guia Pokedex
+- Hola profe!, te explico un poco el funcionamiento de la pokedex, es breve.
+- Al abrirla, buscas el pokemon por el ID que tenga (ej. 111), luego debes oprimir en el botón amarillo que hay debajo del keypad y te mostrará la info.
+- Para ver los sprites, usas las flechas izquierda y derecha.
+- Para ver las evoluciones, usas las flechas arriba y abajo.
+- Para borrar y buscar otro pokemon, oprimes en el botón negro grande que hay debajo de la pantalla donde se ve el pokemon.
+- OJO: Puede que algún pokemon no tengan sprites, lo cual te saldrá como una imagen de error, pero no es error del código, es porque la API no tiene el sprite, por si algo jeje.
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fOa_bXW6)
 # Desarrollo de Aplicaciones Web
 ## Introducción al Asíncronismo
 
