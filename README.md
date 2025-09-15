@@ -1,5 +1,5 @@
 ## Datos
-#Sara Santacruz #0000320782 #sarasaco@unisabana.edu.co #Enlace: https://dsaw-2025-ii.github.io/intro-to-asyncronism-sarastacruz04/
+#Sara Santacruz Corredor #0000320782 #sarasaco@unisabana.edu.co #Enlace: https://dsaw-2025-ii.github.io/intro-to-asyncronism-sarastacruz04/
 
 ## Guia Pokedex
 - Hola profe!, te explico un poco el funcionamiento de la pokedex, es breve.
